@@ -1,7 +1,12 @@
 package com.dio.catalagoDeProduto.repository;
 
 import com.dio.catalagoDeProduto.model.Produto;
-import org.springframework.data.repository.CrudRepository;
+import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
 
-public interface ProdutoRepository extends CrudRepository<Produto, Integer> {
+
+import java.util.List;
+
+
+public interface ProdutoRepository extends ElasticsearchRepository<Produto, Integer> {
+    List<Produto> findByNome(String nome);
 }
