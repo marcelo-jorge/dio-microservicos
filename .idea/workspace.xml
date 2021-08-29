@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29162cba-a4de-4d5f-b52a-cd5e9eda38f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinho-compras/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/carrinho-compras/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalogo-produto/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/catalogo-produto/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/catalogo-produto">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/gateway">
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/servidor-configuracao">
@@ -49,6 +53,9 @@
         <task path="$PROJECT_DIR$/servidor-descoberta">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/gateway">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -71,7 +78,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/servidor-descoberta" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gateway" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -83,19 +90,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Gradle.carrinho-compras [bootRun]">
-    <configuration name="CatalogoProdutoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dio.catalogoproduto.CatalogoProdutoApplication" />
-      <module name="catalogo-produto.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dio.catalogoproduto.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="carrinho-compras [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -121,6 +115,27 @@
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/catalogo-produto" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="gateway [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gateway" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" />
         <option name="taskDescriptions">
@@ -183,10 +198,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.carrinho-compras [bootRun]" />
+        <item itemvalue="Gradle.gateway [bootRun]" />
         <item itemvalue="Gradle.catalogo-produto [bootRun]" />
         <item itemvalue="Gradle.servidor-descoberta [bootRun]" />
         <item itemvalue="Gradle.servidor-configuracao [bootRun]" />
-        <item itemvalue="Application.CatalogoProdutoApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -211,5 +226,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
