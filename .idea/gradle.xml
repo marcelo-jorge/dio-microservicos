@@ -5,10 +5,28 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/carrinhodeCompras" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/carrinhodeCompras" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/catalagoDeProduto" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/catalagoDeProduto" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/servidorDeConfiguracao" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/servidorDeConfiguracao" />
           </set>
         </option>
       </GradleProjectSettings>
