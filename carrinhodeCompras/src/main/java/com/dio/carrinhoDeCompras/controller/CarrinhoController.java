@@ -6,6 +6,7 @@ import com.dio.carrinhoDeCompras.repository.CarrinhoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.List;
 import java.util.Optional;
 
 @RestController
@@ -33,14 +34,19 @@ public class CarrinhoController {
         return carrinhoRepository.save(carrinho);
     }
 
-    @GetMapping("/{id}")
-    public Optional<Carrinho> findById(@PathVariable Integer id){
-        return carrinhoRepository.findById(id);
+    @GetMapping
+    public Iterable<Carrinho> findAll(){
+        return carrinhoRepository.findAll();
     }
 
     @DeleteMapping("/{id}")
     public void delete(@PathVariable Integer id){
         carrinhoRepository.deleteById(id);
+    }
+
+    @GetMapping("/{id}")
+    public Optional<Carrinho> findById(@PathVariable Integer id){
+        return carrinhoRepository.findById(id);
     }
 
 }
