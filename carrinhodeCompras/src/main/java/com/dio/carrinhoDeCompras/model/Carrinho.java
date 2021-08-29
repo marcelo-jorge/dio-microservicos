@@ -16,6 +16,10 @@ public class Carrinho {
     public Carrinho() {
     }
 
+    public Carrinho(Integer id){
+        this.id = id;
+    }
+
     public Integer getId() {
         return id;
     }
