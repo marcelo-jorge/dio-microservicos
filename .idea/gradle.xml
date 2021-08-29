@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/carrinhodeCompras" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/carrinho-compras" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/carrinhodeCompras" />
+            <option value="$PROJECT_DIR$/carrinho-compras" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/catalagoDeProduto" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/catalogo-produto" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/catalagoDeProduto" />
+            <option value="$PROJECT_DIR$/catalogo-produto" />
           </set>
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/servidorDeConfiguracao" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/servidor-configuracao" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/servidorDeConfiguracao" />
+            <option value="$PROJECT_DIR$/servidor-configuracao" />
           </set>
         </option>
       </GradleProjectSettings>
