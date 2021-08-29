@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29162cba-a4de-4d5f-b52a-cd5e9eda38f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/carrinho-compras/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/carrinho-compras/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinho-compras/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/carrinho-compras/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/catalogo-produto/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/catalogo-produto/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalogo-produto/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/catalogo-produto/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,25 +46,12 @@
         <task path="$PROJECT_DIR$/servidor-configuracao">
           <activation />
         </task>
+        <task path="$PROJECT_DIR$/servidor-descoberta">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="carrinho-compras" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="carrinho-compras" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="carrinho-compras" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="application" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
@@ -98,7 +82,7 @@
       <recent name="$PROJECT_DIR$/catalogo-produto/src/main/java/com/dio/catalogoproduto" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.servidor-descoberta [bootRun]">
+  <component name="RunManager" selected="Gradle.carrinho-compras [bootRun]">
     <configuration name="CatalogoProdutoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dio.catalogoproduto.CatalogoProdutoApplication" />
       <module name="catalogo-produto.main" />
@@ -198,10 +182,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.servidor-descoberta [bootRun]" />
-        <item itemvalue="Gradle.servidor-configuracao [bootRun]" />
         <item itemvalue="Gradle.carrinho-compras [bootRun]" />
         <item itemvalue="Gradle.catalogo-produto [bootRun]" />
+        <item itemvalue="Gradle.servidor-descoberta [bootRun]" />
+        <item itemvalue="Gradle.servidor-configuracao [bootRun]" />
         <item itemvalue="Application.CatalogoProdutoApplication" />
       </list>
     </recent_temporary>
