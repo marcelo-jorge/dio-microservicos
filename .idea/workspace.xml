@@ -5,62 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29162cba-a4de-4d5f-b52a-cd5e9eda38f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/carrinho-compras/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carrinho-compras/src/main/java/com/dio/carrinhocompras/config/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carrinho-compras/src/main/java/com/dio/carrinhocompras/controller/CarrinhoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carrinho-compras/src/main/java/com/dio/carrinhocompras/model/Carrinho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carrinho-compras/src/main/java/com/dio/carrinhocompras/model/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/carrinho-compras/src/main/java/com/dio/carrinhocompras/repository/CarrinhoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalogo-produto/src/main/java/com/dio/catalogoproduto/config/ElasticSearchConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalogo-produto/src/main/java/com/dio/catalogoproduto/controller/ProdutoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalogo-produto/src/main/java/com/dio/catalogoproduto/model/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalogo-produto/src/main/java/com/dio/catalogoproduto/repository/ProdutoRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servidor-configuracao/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/servidor-configuracao/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/carrinho-compras/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/carrinho-compras/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/carrinho-compras/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/carrinho-compras/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/carrinho-compras/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/carrinho-compras/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/src/main/java/com/dio/carrinhoDeCompras/CarrinhoDeComprasApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/src/main/java/com/dio/carrinhoDeCompras/config/RedisConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/src/main/java/com/dio/carrinhoDeCompras/controller/CarrinhoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/src/main/java/com/dio/carrinhoDeCompras/model/Carrinho.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/src/main/java/com/dio/carrinhoDeCompras/model/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/src/main/java/com/dio/carrinhoDeCompras/repository/CarrinhoRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/carrinho-compras/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carrinhodeCompras/src/test/java/com/dio/carrinhodeCompras/CarrinhoDeComprasApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/src/main/java/com/dio/catalagoDeProduto/CatalagoDeProdutoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/src/main/java/com/dio/catalagoDeProduto/config/ElasticSearchConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/src/main/java/com/dio/catalagoDeProduto/controller/ProdutoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/src/main/java/com/dio/catalagoDeProduto/model/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/src/main/java/com/dio/catalagoDeProduto/repository/ProdutoRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/src/main/resources/static/es-settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalagoDeProduto/src/test/java/com/dio/catalagoDeProduto/CatalagoDeProdutoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/servidorDeConfiguracao/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/servidor-configuracao/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servidorDeConfiguracao/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/servidor-configuracao/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servidorDeConfiguracao/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/servidor-configuracao/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servidorDeConfiguracao/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/servidor-configuracao/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servidorDeConfiguracao/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/servidor-configuracao/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servidorDeConfiguracao/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/servidor-configuracao/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/servidorDeConfiguracao/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/servidorDeConfiguracao/src/main/java/com/dio/servidorDeConfiguracao/ServidorDeConfiguracaoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/servidorDeConfiguracao/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/servidorDeConfiguracao/src/test/java/com/dio/servidorDeConfiguracao/ServidorDeConfiguracaoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carrinho-compras/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/carrinho-compras/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carrinho-compras/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/carrinho-compras/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalogo-produto/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/catalogo-produto/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalogo-produto/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/catalogo-produto/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +25,9 @@
       <ProjectState />
     </projectState>
     <projectState path="$PROJECT_DIR$/servidor-configuracao">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/servidor-descoberta">
       <ProjectState />
     </projectState>
   </component>
@@ -101,16 +54,16 @@
             <expand>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="servidor-configuracao" type="f1a62948:ProjectNode" />
+                <item name="carrinho-compras" type="f1a62948:ProjectNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="servidor-configuracao" type="f1a62948:ProjectNode" />
+                <item name="carrinho-compras" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
               </path>
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="servidor-configuracao" type="f1a62948:ProjectNode" />
+                <item name="carrinho-compras" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
                 <item name="application" type="c8890929:TasksNode$1" />
               </path>
@@ -134,7 +87,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/servidor-configuracao" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/servidor-descoberta" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -145,7 +98,7 @@
       <recent name="$PROJECT_DIR$/catalogo-produto/src/main/java/com/dio/catalogoproduto" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.servidor-configuracao [bootRun]">
+  <component name="RunManager" selected="Gradle.servidor-descoberta [bootRun]">
     <configuration name="CatalogoProdutoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dio.catalogoproduto.CatalogoProdutoApplication" />
       <module name="catalogo-produto.main" />
@@ -222,8 +175,30 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="servidor-descoberta [bootRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/servidor-descoberta" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.servidor-descoberta [bootRun]" />
         <item itemvalue="Gradle.servidor-configuracao [bootRun]" />
         <item itemvalue="Gradle.carrinho-compras [bootRun]" />
         <item itemvalue="Gradle.catalogo-produto [bootRun]" />
